@@ -1,0 +1,31 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.button1{
+    margin: 25px;
+    background-color: darkred;
+    color: white;
+    display: flex;
+    text-align: center;
+    border-radius: 10px;
+}
+.button2{
+    margin: 25px;
+    background-color: darkgreen;
+    color: white;
+    display: flex;
+    text-align: center;
+    border-radius: 10px;
+
+}
+h3{
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+}

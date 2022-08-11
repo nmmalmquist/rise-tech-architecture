@@ -13,6 +13,10 @@ body{
     display: flex;
     text-align: center;
     border-radius: 10px;
+    min-width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .button2{
     margin: 25px;
@@ -21,7 +25,13 @@ body{
     display: flex;
     text-align: center;
     border-radius: 10px;
-
+    min-width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.color{
+    background-color: navy;
 }
 h3{
     padding: 20px;
